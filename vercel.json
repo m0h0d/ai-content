@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "crons": [
+    {
+      "path": "/api/cron",
+      "schedule": "*/10 * * * *"
+    }
+  ],
+  "buildCommand": "npm run build"
+} 

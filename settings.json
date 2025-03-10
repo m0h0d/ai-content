@@ -1,18 +1,33 @@
 {
-    "domain": "Python Programming",
-    "tone": "Passionate and Urgent",
-    "length": "Long",
-    "numArticles": 10,
+    "domain": "Pohledávky a finanční služby",
+    "tone": "Profesionální a informativní",
+    "length": "Medium",
+    "lang": "Czech",
+    "skill": "Intermediate",
+    "numArticles": 1,
     "topics": [
-        "Introduction to Python",
-        "Python Data Types and Variables",
-        "Python Control Structures",
-        "Python Functions",
-        "Python Modules and Packages",
-        "Python Object-Oriented Programming",
-        "Python Exception Handling",
-        "Python File I/O",
-        "Python Libraries and Frameworks",
-        "Python Project Best Practices"
-    ]
+        "Vymáhání pohledávek - efektivní strategie a postupy",
+        "Správa firemních pohledávek - klíč k finanční stabilitě",
+        "Odkup a prodej pohledávek - průvodce pro podnikatele",
+        "Odkup firem - právní a finanční aspekty",
+        "Odkup směnek - výhody a rizika"
+    ],
+    "schedule": {
+        "monday": {
+            "time": "19:00",
+            "topic_index": 0
+        },
+        "tuesday": {
+            "time": "06:00",
+            "topic_index": 1
+        },
+        "thursday": {
+            "time": "14:00",
+            "topic_index": 2
+        },
+        "saturday": {
+            "time": "10:00",
+            "topic_index": 3
+        }
+    }
 }
